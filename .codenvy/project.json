@@ -1,1 +1,1 @@
-{"type":"blank","properties":[{"name":"runner.name","value":["python-webapp-default"]},{"name":"runner.env_id","value":["python34"]}]}
+{"attributes":{"runner.env_id":["python34"]},"projectTypeId":"blank","builder":null,"runner":"python-webapp-default","defaultBuilderEnvironment":null,"defaultRunnerEnvironment":null,"builderEnvironmentConfigurations":{},"runnerEnvironmentConfigurations":{},"description":null}
