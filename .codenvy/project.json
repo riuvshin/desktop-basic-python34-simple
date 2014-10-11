@@ -1,1 +1,1 @@
-{"type":"blank","attributes":{},"builders":{},"runners":{"default":"python-webapp-default","configs":{}}}
+{"type":"blank","attributes":{},"runners":{"default":"system:/python-webapp-default/python34","configs":{}},"builders":{}}
