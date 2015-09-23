@@ -1,1 +1,1 @@
-{"type":"python","properties":[{"name":"runner.name","value":["python-webapp-default"]},{"name":"runner.env_id","value":["python34"]}]}
+{"mixinTypes":["contribution"],"builders":{"configs":{}},"runners":{"configs":{}},"type":"python","attributes":{"contribute_branch":["master"],"contribute_mode":["contribute"],"language":["python"]}}
